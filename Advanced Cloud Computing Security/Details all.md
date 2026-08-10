@@ -11,6 +11,7 @@ Welcome to the **Advanced Cloud Computing Security Learning Repository**. This r
 | 00 | Prerequisite | [View Presentation](https://canva.link/warllo67w4wtwfh) |
 | 01 | CHAP01: Fundamentals of Cloud Security Concepts | [View Presentation](https://canva.link/zmmbq6qjrtyrppg) |
 | 02 | CHAP02: Cloud Infrastructure Security: Threats and Mitigation Techniques | [View Presentation](https://canva.link/xd73vpbr0og2ug6) |
+| 03 | CHAP03: Cloud Data Security | [View Presentation](https://canva.link/g755ri4azrbs0xk) |
 
 ---
 
