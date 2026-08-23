@@ -12,7 +12,7 @@ Welcome to the **Advanced Cloud Computing Security Learning Repository**. This r
 | 01 | CHAP01: Fundamentals of Cloud Security Concepts | [View Presentation](https://canva.link/zmmbq6qjrtyrppg) |
 | 02 | CHAP02: Cloud Infrastructure Security: Threats and Mitigation Techniques | [View Presentation](https://canva.link/xd73vpbr0og2ug6) |
 | 03 | CHAP03: Cloud Data Security | [View Presentation](https://canva.link/g755ri4azrbs0xk) |
-| 04 | CHAP03: Secure Identity Management in The Cloud: Challenges And Solutions | [[View Presentation](https://canva.link/g755ri4azrbs0xk)](https://canva.link/99b8od799iwhmkk) |
+| 04 | CHAP04: Secure Identity Management in The Cloud: Challenges And Solutions | [View Presentation](https://canva.link/g755ri4azrbs0xk)](https://canva.link/99b8od799iwhmkk) |
 ---
 
 ## 🎯 Learning Objectives
