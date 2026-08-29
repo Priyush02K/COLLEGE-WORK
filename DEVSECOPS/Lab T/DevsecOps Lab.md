@@ -12,6 +12,8 @@ Welcome to the **DevSecOps Learning Repository**. This repository contains prese
 | 02 | DevSecOps Introduction | [View Presentation](https://canva.link/5slor30k6bdcptv) |
 | 03 | Version Control + Git | [View Presentation](https://canva.link/qctxo5651k4ah0j) |
 | 04 | Jenkins | [View Presentation](https://canva.link/eymadllj05ufv9g) |
+| 05 | Docker  | [View Presentation](https://canva.link/ewrc3gerdf4frtp) |
+
 
 ---
 
