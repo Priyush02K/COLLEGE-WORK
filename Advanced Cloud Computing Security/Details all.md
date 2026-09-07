@@ -13,6 +13,7 @@ Welcome to the **Advanced Cloud Computing Security Learning Repository**. This r
 | 02 | CHAP02: Cloud Infrastructure Security: Threats and Mitigation Techniques | [View Presentation](https://canva.link/xd73vpbr0og2ug6) |
 | 03 | CHAP03: Cloud Data Security | [View Presentation](https://canva.link/g755ri4azrbs0xk) |
 | 04 | CHAP04: Secure Identity Management in The Cloud: Challenges And Solutions |  [View Presentation](https://canva.link/99b8od799iwhmkk) |
+| 05 | CHAP05: Disaster Recovery Auditing: Mitigating Risk and Ensuring Compliance |  [View Presentation](https://canva.link/9atxxxkptks18xx) |
 ---
 
 ## 🎯 Learning Objectives
