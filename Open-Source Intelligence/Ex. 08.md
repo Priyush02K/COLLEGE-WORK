@@ -467,22 +467,3 @@ After completing this experiment, students will be able to:
 * Cross-check results using multiple databases.
 * Understand the limitations of IP-based geolocation.
 * Prepare an evidence-based IP geolocation report.
-
-
-Tools : 
-| No. | Tool / Source                  | Purpose                                                      |
-| --: | ------------------------------ | ------------------------------------------------------------ |
-|   1 | **Google / Bing**              | General company information and OSINT searches               |
-|   2 | **Official Company Website**   | History, products, executives, press releases                |
-|   3 | **Investor Relations Website** | Annual reports, financial results, company filings           |
-|   4 | **SEC EDGAR**                  | Financial and regulatory filings of U.S. public companies    |
-|   5 | **OpenCorporates**             | Company registration and corporate information               |
-|   6 | **Crunchbase**                 | Funding, acquisitions, investors and company information     |
-|   7 | **Reuters**                    | Reliable business and company news                           |
-|   8 | **Google News**                | Collecting recent and historical news mentions               |
-|   9 | **LinkedIn**                   | Public professional information about executives and company |
-|  10 | **Wayback Machine**            | Historical versions of the company's website                 |
-|  11 | **Google Patents**             | Patents and technology-related information                   |
-|  12 | **WIPO**                       | International patent information                             |
-|  13 | **Industry Reports**           | Market, competitor and industry analysis                     |
-
