@@ -1,0 +1,158 @@
+Experiment 10
+Title
+
+Implement Threat Modeling Using Threat Dragon
+
+Aim
+
+To implement threat modeling using Threat Dragon by creating a Data Flow Diagram (DFD) and identifying potential security threats in a web application.
+
+Software Requirements
+Threat Dragon (Desktop or Web Version)
+Windows/Linux/macOS
+Web Browser (for the online version)
+Theory
+
+Threat modeling is a structured approach to identifying, analyzing, and mitigating potential security threats in an application before deployment.
+
+Threat Dragon is an open-source threat modeling tool developed by OWASP. It helps developers create Data Flow Diagrams (DFDs) and automatically identifies security threats based on the STRIDE model.
+
+The STRIDE model includes:
+
+S – Spoofing
+T – Tampering
+R – Repudiation
+I – Information Disclosure
+D – Denial of Service
+E – Elevation of Privilege
+Procedure
+Step 1
+
+Download or open Threat Dragon.
+
+Desktop Version:
+https://owasp.org/www-project-threat-dragon/
+
+or
+
+Use the Online Version:
+https://www.threatdragon.com/
+
+Step 2
+
+Create a New Model.
+
+Click New Model
+Enter Model Name
+
+Example:
+
+Event Registration System
+
+Step 3
+
+Create a Data Flow Diagram (DFD).
+
+Add the following components:
+User
+?
+
+Web Browser
+?
+
+Flask Event Registration Application
+?
+
+Database
+
+Step 4
+
+Connect the Components.
+
+User
+   ¦
+   ?
+Browser
+   ¦
+   ?
+Flask Application
+   ¦
+   ?
+Database
+
+
+
+Step 5
+
+Analyze Threats.
+
+Threat Dragon will suggest threats. 	
+
+
+
+Examples:
+
+Component	     Threat	       			STRIDE
+User Login	    Fake user login	                Spoofing
+Registration Form   Data modification 			Tampering
+Database	    Sensitive data leakage		Information Disclosure
+Server	Server      overload				Denial of Service
+Admin Access	    Unauthorized access			Elevation of Privilege
+
+Step 6
+
+Add Mitigations.
+
+Example:
+
+
+| Threat                 | Mitigation                |
+| ---------------------- | ------------------------- |
+| Spoofing               | Strong Authentication     |
+| Tampering              | Input Validation          |
+| Information Disclosure | HTTPS & Encryption        |
+| DoS                    | Rate Limiting             |
+| Elevation of Privilege | Role-Based Access Control |
+
+
+
+Step 7
+
+Save the Model.
+
+Export the model as
+
+PDF
+
+or
+
+PNG
+
+
+
+Result:
+
++--------+
+|  User  |
++--------+
+     |
+     v
++------------+
+| Web Browser|
++------------+
+     |
+     v
++---------------------------+
+| Flask Event Registration  |
+|       Application         |
++---------------------------+
+     |
+     v
++------------+
+|  Database  |
++------------+
+
+
+Result
+
+Threat modeling was successfully implemented using Threat Dragon. Potential threats were identified using the STRIDE methodology, and suitable mitigation strategies were proposed for the Event Registration System.
